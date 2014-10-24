@@ -1,0 +1,4 @@
+Token ASSIGNMENT_PKG found in /home/jenkinset/projects/records/web/src/main/java/org/lds/records/service/bs/AbstractAssignmentChangeService.java
+Token MISSIONARY_CREDIT_CARD_VW found in /home/jenkinset/projects/records/web/src/main/java/org/lds/records/model/missionary/CreditCard.java
+Token ASSIGNMENT_PKG found in /home/jenkinset/projects/records/web/src/main/java/org/lds/records/service/bs/AbstractAssignmentChangeService.java
+Token MISSIONARY_CREDIT_CARD_VW found in /home/jenkinset/projects/records/web/src/main/java/org/lds/records/model/missionary/CreditCard.java
